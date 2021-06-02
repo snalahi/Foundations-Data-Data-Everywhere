@@ -1,2 +1,17 @@
 # Foundations-Data-Data-Everywhere
-Google Data Analytics Professional Certificate
+Data is a collection of facts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
