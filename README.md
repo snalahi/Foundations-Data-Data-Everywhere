@@ -116,6 +116,12 @@ A query language is a computer programming language that allows you to retrieve 
 
 A database is a collection of data stored in a computer system.
 
+An attribute is a characteristic or quality of data used to label a column in a table. In a dataset a column is called an attribute.
+
+In a dataset a row is called an observation. An observation includes all of the attributes for something contained in a row of a data table.
+
+
+
 
 
 
