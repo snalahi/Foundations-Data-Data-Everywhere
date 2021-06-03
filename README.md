@@ -26,7 +26,7 @@ Here you'll learn how data analysts interpret results and share them with others
 #### Act
 This is the exciting moment when the business takes all of the insights you, the data analyst, have provided and puts them to work in order to solve the original business problem and will be acting on what you've learned throughout this program. 
 
-Data-driven decision-making involves five analytical skills: 
+#### Data-driven decision-making involves five analytical skills: 
 #### Curiosity
 #### Understanding context
 #### Having a technical mindset
