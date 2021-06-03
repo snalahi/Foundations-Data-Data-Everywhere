@@ -104,6 +104,9 @@ Analyze - How will the company analyze the data? What tools should they use?
 Archive - What should they do with their data when it gets old? How do they know when it's time?
 Destroy - Should they ever dispose of any data? If so, when and how?
 
+Stakeholders hold a stake in the project. They are people who have invested time and resources into a project and are interested in the outcome.
+
+
 
 
 
