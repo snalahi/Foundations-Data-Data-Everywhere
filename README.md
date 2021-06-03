@@ -120,6 +120,18 @@ An attribute is a characteristic or quality of data used to label a column in a 
 
 In a dataset a row is called an observation. An observation includes all of the attributes for something contained in a row of a data table.
 
+A query is the way we use SQL to communicate with the database.
+
+A pie chart shows how a whole is broken down into parts and is an effective visualization for a class broken down by age.
+
+An issue is a topic or subject to investigate.
+
+A question is designed to discover information.
+
+A problem is an obstacle or complication that needs to be worked out.
+
+A business task is the question or problem data analysis answers for business. 
+
 
 
 
