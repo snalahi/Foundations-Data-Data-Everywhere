@@ -61,7 +61,7 @@ Analytical thinking involves identifying and defining a problem and then solving
 
 #### The five key aspects to analytical thinking are visualization, strategy, problem-orientation, correlation, and finally, big-picture and detail-oriented thinking.
 
-Visualization is the graphical representation of information.
+Visualization (Data Visualization) is the graphical representation of information.
 
 A correlation is like a relationship. You can find all kinds of correlations in data. Correlation involves being able to identify a relationship between two or more pieces of data.
 
@@ -105,6 +105,20 @@ Archive - What should they do with their data when it gets old? How do they know
 Destroy - Should they ever dispose of any data? If so, when and how?
 
 Stakeholders hold a stake in the project. They are people who have invested time and resources into a project and are interested in the outcome.
+
+Spreadsheets have some really useful features called formulas and functions. Spreadsheets enable data analysts to store, organize, sort, and filter data. This helps them see patterns, group information, and easily find the information they need.
+
+A formula is a set of instructions that performs a specific calculation using the data in a spreadsheet.
+
+A function is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
+
+A query language is a computer programming language that allows you to retrieve and manipulate data from a database.
+
+A database is a collection of data stored in a computer system.
+
+
+
+
 
 
 
