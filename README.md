@@ -130,7 +130,11 @@ A question is designed to discover information.
 
 A problem is an obstacle or complication that needs to be worked out.
 
-A business task is the question or problem data analysis answers for business. 
+A business task is the question or problem data analysis answers for business.
+
+Fairness means ensuring that your analysis doesn't create or reinforce bias.
+
+
 
 
 
